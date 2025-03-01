@@ -88,3 +88,26 @@ Available Commands
 /exit: Exits the application.
 Example Usage
 Add a new task: 
+/add Finish the project documentation
+List all tasks:  
+/list-all
+Update a task:  
+/update 1 Update the project documentation
+Mark a task as done:  
+/mark-done 1
+Delete a task:  
+/delete 1
+Project Structure
+src/main/java/com/ult1ma/CLITaskManager.java: Main class to start the application.
+src/main/java/com/ult1ma/CommandLineHandler.java: Handles user input and commands.
+src/main/java/com/ult1ma/TaskService.java: Contains methods for task operations (create, update, delete, list).
+src/main/java/com/ult1ma/Task.java: Task model class.
+src/main/java/com/ult1ma/TaskStatus.java: Enum for task statuses.
+Dependencies
+The project uses the following dependencies:  
+jackson-databind: For JSON serialization and deserialization.
+jackson-datatype-jsr310: For handling Java 8 date/time types.
+These dependencies are specified in the pom.xml file.
+Notes
+Ensure that the FILE_PATH in TaskService is correctly set to the directory where task files will be stored.
+The application uses JSON files to store task data. Each task is saved as a separate JSON file in the specified directory.
