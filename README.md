@@ -1,4 +1,4 @@
-ProjectURL - https://github.com/ult1mq/CLIToDoList
+ProjectURL - [https://github.com/ult1mq/CLIToDoList](https://roadmap.sh/projects/task-tracker)
 # CLIToDoList
 [RU]
 CLITaskManager
