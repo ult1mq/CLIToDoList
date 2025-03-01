@@ -1,3 +1,4 @@
+ProjectURL - https://github.com/ult1mq/CLIToDoList
 # CLIToDoList
 [RU]
 CLITaskManager
