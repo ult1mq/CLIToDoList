@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/ult1ma/CLITaskManager.java;D:/mods/demo3/TaskTrackerCLI/src/main/java/com/ult1ma/CommandLineHandler.java;D:/mods/demo3/TaskTrackerCLI/src/main/java/com/ult1ma/Task.java;D:/mods/demo3/TaskTrackerCLI/src/main/java/com/ult1ma/TaskService.java;D:/mods/demo3/TaskTrackerCLI/src/main/java/com/ult1ma/TaskStatus.java" />
+  </component>
+</project>
